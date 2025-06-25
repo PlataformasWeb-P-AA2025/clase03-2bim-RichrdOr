@@ -102,7 +102,5 @@ def crear_pais(request):
 
     return render(request,'crearPais.html',diccionario)
 
-def listar_pais(request):
-    
 
 
